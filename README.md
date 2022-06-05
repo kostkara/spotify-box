@@ -87,4 +87,4 @@ if the response not return refresh_token, back to step 2 and retry.
 
 ## 💸 Donations
 
-Feel free to use the GitHub Sponsor button to donate towards my work if you think this project is helpful. 🤗
+Feel free to visit https://github.com/izayl/spotify-box to donate towards the original developer's work if you think this project is helpful. 🤗
